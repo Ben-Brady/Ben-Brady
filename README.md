@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-My recent work has been on library packages
+I'm nnilky (Ben Brady), I've been doing development almost constantly in my free time for the past 6 years. I work in Typescript and Python, but I can do Lua and Rust.
 
-I've made the follwoing packages [tempered](https://pypi.org/project/tempered/), [resulting](https://pypi.org/project/resulting/), [mediaify](https://pypi.org/project/mediaify/), [discopic](https://www.npmjs.com/package/discopic), [workify](https://www.npmjs.com/package/@nnilky/workify), [classnames-miny](https://www.npmjs.com/package/@nnilky/classnames-miny).
+I've been working on contributing to the libraries I use more, either by working on reduce the size of JS libraries or improve runtime performance.
 
+My recent work has been on making library packages, such as [classnames-miny](https://www.npmjs.com/package/@nnilky/classnames-miny), [workify](https://www.npmjs.com/package/@nnilky/workify), [tempered](https://pypi.org/project/tempered/), [resulting](https://pypi.org/project/resulting/), [mediaify](https://pypi.org/project/mediaify/), [discopic](https://www.npmjs.com/package/discopic).
 
 <p align="center">
   <img width="200" height="200" src="haj.gif">
