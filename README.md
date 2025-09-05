@@ -4,6 +4,11 @@ My recent work has been on library packages
 
 I've made the follwoing packages [tempered](https://pypi.org/project/tempered/), [resulting](https://pypi.org/project/resulting/), [mediaify](https://pypi.org/project/mediaify/), [discopic](https://www.npmjs.com/package/discopic), [workify](https://www.npmjs.com/package/@nnilky/workify), [classnames-miny](https://www.npmjs.com/package/@nnilky/classnames-miny).
 
+
+<p align="center">
+  <img width="200" height="200" src="haj.gif">
+</p>
+
 <!--
 **Ben-Brady/Ben-Brady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
